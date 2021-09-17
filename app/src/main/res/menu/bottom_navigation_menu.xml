@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/action_timer"
+        android:enabled="true"
+        android:icon="@drawable/timer"
+        android:title="Timer"/>
+
+    <item
+        android:id="@+id/action_todo"
+        android:enabled="true"
+        android:icon="@drawable/todo"
+        android:title="To Do"/>
+
+    <item
+        android:id="@+id/action_memo"
+        android:enabled="true"
+        android:icon="@drawable/memo"
+        android:title="memo"/>
+
+    <item
+        android:id="@+id/action_papago"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_translate_24"
+        android:title="translate"/>
+
+    <item
+        android:id="@+id/action_youtube"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_play_circle_outline_24"
+        android:title="youtube"/>
+
+
+</menu>
+

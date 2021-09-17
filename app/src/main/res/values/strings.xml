@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">빡공</string>
+    <string name="fab_content_desc">sd</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">로그인</string>
+    <string name="action_sign_up">가입하기</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="find_password">"비밀번호 찾기"</string>
+    <string name="prompt_password_confirm">password confirm</string>
+    <string name="save">저장</string>
+    <string name="cancel">취소</string>
+    <string name="select">측정 방법 선택</string>
+    <string name="timer_exit">공부시간 측정을 종료하시겠어요?</string>
+    <string name="end">종료</string>
+    <string name="delete">삭제</string>
+    <string name="check_delete">삭제하시겠어요?</string>
+    <string name="FirstMessage">인식할 문자를 찍어주세요.</string>
+    <string name="LoadingMessage">잠시만 기다려주세요.결과가 여기에 나타납니다.</string>
+    <string name="CompleteMessage">문자인식이 완료되었습니다.</string>
+
+
+    <string-array name="timer_kind_array">
+        <item>타이머</item>
+        <item>스탑워치</item>
+    </string-array>
+
+    <string-array name="record_action_select">
+        <item>공부시간 재설정</item>
+        <item>집중도 수정</item>
+        <item>삭제</item>
+    </string-array>
+
+    <string-array name="preset_action_select">
+        <item>수정</item>
+        <item>삭제</item>
+    </string-array>
+
+    <string-array name="select_memo_type">
+        <item> 텍스트 메모 작성</item>
+        <item> 이미지 추가 </item>
+    </string-array>
+
+    <string-array name="motivation">
+        <item> 오늘 걷지 않으면 내일 뛰어야 한다.</item>
+        <item> 고난이란 최선을 다 할 기회다. </item>
+        <item> 그만 고민하라. 그냥 행동하라.</item>
+        <item> 산다는 것은 치열한 전투다.</item>
+        <item> 계단을 밟아야 올라설 수 있다.</item>
+        <item> 호랑이의 눈으로, 소의 발걸음으로.</item>
+        <item> 최고에 도달하려면 최저에서 시작하라.</item>
+        <item> 겨울이 오면 봄이 멀지 않으리.</item>
+        <item> 행운은 끊임없이 도전하는 자에게 따른다.</item>
+        <item> 너 자신을 믿어라.</item>
+    </string-array>
+
+
+
+</resources>
